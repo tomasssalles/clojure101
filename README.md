@@ -127,7 +127,7 @@ Text
 <br> ![Done](https://img.shields.io/static/v1?label=&message=done&color=green&style=plastic)
 
 **Fizz Buzz** - Write a program that prints the numbers from 1 to 100. But for multiples of three print “Fizz” instead of the number and for the multiples of five print “Buzz”. For numbers which are multiples of both three and five print “FizzBuzz”.
-<br> ![TODO](https://img.shields.io/static/v1?label=&message=todo&color=lightgrey&style=plastic)
+<br> ![In Progress](https://img.shields.io/static/v1?label=&message=in%20progress&color=blue&style=plastic)
 
 **Reverse a String** - Enter a string and the program will reverse it and print it out.
 <br> ![TODO](https://img.shields.io/static/v1?label=&message=todo&color=lightgrey&style=plastic)
