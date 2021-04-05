@@ -3,7 +3,7 @@
     [clojure.test :refer :all]
     [fizz-buzz :refer :all]))
 
-(deftest returns_sequence
+(deftest test_fizz_buzz
   (let [lazy_result (fizz_buzz)]
     (is (sequential? lazy_result))
     (let [vec_result (vec lazy_result)]

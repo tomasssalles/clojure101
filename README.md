@@ -130,7 +130,7 @@ Text
 <br> ![Done](https://img.shields.io/static/v1?label=&message=done&color=green&style=plastic)
 
 **Reverse a String** - Enter a string and the program will reverse it and print it out.
-<br> ![TODO](https://img.shields.io/static/v1?label=&message=todo&color=lightgrey&style=plastic)
+<br> ![In Progress](https://img.shields.io/static/v1?label=&message=in%20progress&color=blue&style=plastic)
 
 **Pig Latin** - Pig Latin is a game of alterations played on the English language game. To create the Pig Latin form of an English word the initial consonant sound is transposed to the end of the word and an ay is affixed (Ex.: "banana" would yield anana-bay). Read Wikipedia for more information on rules.
 <br> ![TODO](https://img.shields.io/static/v1?label=&message=todo&color=lightgrey&style=plastic)
